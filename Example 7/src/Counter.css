@@ -1,0 +1,16 @@
+.div-border{
+    border-style: solid;
+    margin: auto;
+    height: 100px;
+    width: 20%;
+    text-align: center;
+   padding-top: 6%;
+   
+  }
+  
+  .container{
+    margin-left: 80px;
+    margin-top: 20px;
+    
+  }
+  
